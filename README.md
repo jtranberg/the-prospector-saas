@@ -34,7 +34,7 @@
 
 ---
 
-# Enterprise Sports Intelligence Platform
+# Secure Multi-Tenant Sports Intelligence Platform
 
 The Prospector is a secure, multi-tenant sports intelligence platform built for organizations, scouts, coaches, recruiters, athletes, and families to discover, evaluate, organize, and manage athlete intelligence through modern analytics, visualization, and enterprise-grade engineering.
 
@@ -482,7 +482,7 @@ This workflow promotes consistent quality while reducing the likelihood of regre
 
 ---
 
-# Why The Prospector
+# Engineering Principles
 
 The Prospector was created to demonstrate that modern sports intelligence software can combine professional engineering practices with practical tools that support real decision making.
 
