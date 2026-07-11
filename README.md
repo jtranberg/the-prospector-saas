@@ -336,6 +336,8 @@ Engineering principles include:
 
 * Clear separation of responsibilities
 * Security by design
+* Automated integration testing
+* Regression validation
 * Consistent API design
 * Reusable service architecture
 * Defensive input validation
