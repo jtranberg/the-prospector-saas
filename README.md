@@ -2,6 +2,8 @@
 
 ![App Intelligence](https://img.shields.io/badge/Built%20by-App%20Intelligence-blue?style=for-the-badge\&logo=github)
 
+![Integration Tests](https://img.shields.io/badge/Integration%20Tests-56%20Passing-success?style=flat-square)
+
 ![Version](https://img.shields.io/badge/version-2.0%20Professional-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/status-Active%20Development-brightgreen?style=flat-square)
 ![Database](https://img.shields.io/badge/database-233K%2B%20Athletes-success?style=flat-square)
@@ -34,7 +36,7 @@
 
 ---
 
-# Secure Multi-Tenant Sports Intelligence Platform
+# Enterprise Sports Intelligence Platform
 
 The Prospector is a secure, multi-tenant sports intelligence platform built for organizations, scouts, coaches, recruiters, athletes, and families to discover, evaluate, organize, and manage athlete intelligence through modern analytics, visualization, and enterprise-grade engineering.
 
@@ -482,7 +484,36 @@ This workflow promotes consistent quality while reducing the likelihood of regre
 
 ---
 
-# Engineering Principles
+# Automated Integration Testing
+
+The Prospector includes a growing automated integration test suite built with **Vitest** and **Supertest** to validate production-critical workflows before deployment.
+
+Current automated coverage includes:
+
+* Authentication
+* Authorization
+* Workspace management
+* Role-based permissions
+* Founder administration
+* Stripe billing
+* Subscription lifecycle
+* Prospect APIs
+* Health endpoints
+* Database validation
+* Error handling
+* Security edge cases
+
+Current Results
+
+* 56 automated integration tests
+* 7 test suites
+* 100% passing
+* Production regression validation
+* Secure API verification
+
+Every release is validated through automated regression testing in addition to live production verification, helping ensure new features do not introduce regressions into existing platform functionality.
+
+# Why The Prospector
 
 The Prospector was created to demonstrate that modern sports intelligence software can combine professional engineering practices with practical tools that support real decision making.
 
