@@ -7,7 +7,7 @@
 ![Version](https://img.shields.io/badge/version-2.0%20Professional-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/status-Active%20Development-brightgreen?style=flat-square)
 ![Database](https://img.shields.io/badge/database-261K%2B%20Athletes-success?style=flat-square)
-![Coverage](https://img.shields.io/badge/coverage-108%2B%20Countries-blueviolet?style=flat-square)
+![Coverage](https://img.shields.io/badge/coverage-109%2B%20Countries-blueviolet?style=flat-square)
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white&style=flat-square)
@@ -24,14 +24,6 @@
 
 ## Engineering Snapshot
 
-- 233,000+ Athlete Records
-- 108+ Countries
-- Multi-Tenant SaaS Architecture
-- Secure JWT Authentication
-- Stripe Subscription Billing
-- 56 Automated Integration Tests
-- 7 Vitest Test Suites
-- Production Security Verification
 
 
 <p align="center">
@@ -47,11 +39,17 @@
 </p>
 
 ---
-• Multi-Tenant SaaS Architecture
-• Five Membership Tiers
-• Stripe Subscription Billing
-• Secure JWT Authentication
----
+# Subscription tiers
+
+- 261,000+ Athlete Records
+- 108+ Countries
+- Multi-Tenant SaaS Architecture
+- Secure JWT Authentication
+- Stripe Subscription Billing
+- 56 Automated Integration Tests
+- 7 Vitest Test Suites
+- Production Security Verification
+
 
 # Enterprise Sports Intelligence Platform
 
